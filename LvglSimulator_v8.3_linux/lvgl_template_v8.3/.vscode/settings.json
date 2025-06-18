@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "lv_demo_widgets.h": "c",
+        "lv_gpu_nxp_pxp.h": "c",
+        "lv_gpu_swm341_dma2d.h": "c",
+        "lv_draw_sdl.h": "c",
+        "sdl.h": "c",
+        "demo.h": "c"
+    }
+}

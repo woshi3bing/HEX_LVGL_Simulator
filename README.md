@@ -1,0 +1,2 @@
+HEX_LVGL_Simulator
+LINUX
